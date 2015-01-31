@@ -1,0 +1,11 @@
+.repo {
+    font-family: Helvetica Neue, sans-serif;
+    color: #dddddd;
+    background-color: #334455;
+    padding: 10px;
+    margin: 20px;
+}
+
+.repo__title {
+    margin: 0;
+}
