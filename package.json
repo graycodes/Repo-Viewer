@@ -1,5 +1,5 @@
 {
-  "name": "Repo Viewer",
+  "name": "repo-viewer",
   "version": "0.0.0",
   "description": "",
   "repository": "",
@@ -10,9 +10,10 @@
   "mainInput": "main",
   "mainOutput": "main",
   "dependencies": {
-    "react-router": "^0.11.6",
+    "jquery": "^2.0.0",
+    "lodash": "^3.0.1",
     "react": "~0.12.2",
-    "jquery": "^2.0.0"
+    "react-router": "^0.11.6"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
